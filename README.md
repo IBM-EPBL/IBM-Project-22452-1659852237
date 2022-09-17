@@ -12,7 +12,7 @@ Team Members:
 
 Sneha B
 
-Lakshmi Priya G
+Lakshmi Priya V
 
 Meghaa Rhenith R
 
