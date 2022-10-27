@@ -4,7 +4,7 @@ Agriculture is the most important sector in today’s life. Most plants are affe
 
 An automated system is introduced to identify different diseases on plants by checking the symptoms shown on the leaves of the plant. Deep learning techniques are used to identify the diseases and suggest the precautions that can be taken for those diseases. 
 
-Technical Architecture
+# https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/lottie.json Technical Architecture
 
 ![image](https://user-images.githubusercontent.com/70477654/190869429-442b29c7-fa16-4d5b-b706-5484feea5c50.png)
 
